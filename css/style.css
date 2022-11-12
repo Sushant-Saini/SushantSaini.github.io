@@ -265,6 +265,10 @@ a:focus {
     margin-bottom: 10px;
 }
 
+img.myimg{
+    border-radius: 10px;
+}
+
 .hero .hero-image img {
     max-width: 80%;
     max-height: 80%;
