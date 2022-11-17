@@ -1598,4 +1598,8 @@ img.myimg{
 /*My CSS*/
 .mine{
     color: #ffffff;
+    text-align: justify;
+    list-style-type: square;
+    font-weight: 600;
+    font-size: larger;
 }
