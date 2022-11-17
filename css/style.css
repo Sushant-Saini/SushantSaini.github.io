@@ -924,7 +924,7 @@ img.myimg{
     width: 100%;
     margin: 45px 0;
     padding: 90px 0;
-    background: #EF233C;
+    background: #3220ef;
 }
 
 .banner .container {
@@ -950,7 +950,7 @@ img.myimg{
 }
 
 .banner .section-header h2 span {
-    color: #414141;
+    color: #dd0909;
     font-size: 50px;
 }
 
@@ -1470,7 +1470,7 @@ img.myimg{
 .footer {
     position: relative;
     margin-top: 45px;
-    background: #EF233C;
+    background: #1c18e9;
 }
 
 .footer .container-fluid {
@@ -1537,7 +1537,7 @@ img.myimg{
 }
 
 .footer .footer-social a:hover i {
-    color: #414141;
+    color: #4cd1f9;
 }
 
 .footer .copyright {
@@ -1573,7 +1573,7 @@ img.myimg{
 }
 
 .footer .copyright p a:hover {
-    color: #414141;
+    color: #17e2ed;
 }
 
 @media (max-width: 575.98px) {
